@@ -4,4 +4,4 @@ cd autorecommendation
 
 pip install streamlit pandas scikit-learn
 
-streamlit run autorecommendation
+streamlit run autorecommendation.py
